@@ -4,7 +4,7 @@
 
 [Paper](https://nikkhosravipour.com/post/treasury-buyback) · [Data](#data-availability) · [Site](https://nikkhosravipour.com)
 
-[![License: MIT](https://img.shields.io/badge/code-MIT-8c2f1b?style=flat)](LICENSE) [![License: CC BY 4.0](https://img.shields.io/badge/text-CC%20BY%204.0-8c2f1b?style=flat)](LICENSE-docs) [![R 4.0+](https://img.shields.io/badge/R-4.0%2B-57534e?style=flat)](https://www.r-project.org/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23404678-8c2f1b?style=flat)](https://doi.org/10.5281/zenodo.23404678) [![License: MIT](https://img.shields.io/badge/code-MIT-8c2f1b?style=flat)](LICENSE) [![License: CC BY 4.0](https://img.shields.io/badge/text-CC%20BY%204.0-8c2f1b?style=flat)](LICENSE-docs) [![R 4.0+](https://img.shields.io/badge/R-4.0%2B-57534e?style=flat)](https://www.r-project.org/)
 
 > [!NOTE]
 > Runs in seconds from frozen inputs. Needs R 4.0 or newer and `jsonlite`; no API key or network access. Input vintage: collected 2026-10-06. This release ships no charts.
@@ -67,7 +67,7 @@ treasury-buyback-note/
 
 ## Citation
 
-GitHub shows a "Cite this repository" button from `CITATION.cff`. BibTeX:
+Archived on Zenodo: [doi:10.5281/zenodo.23404678](https://doi.org/10.5281/zenodo.23404678) (all versions). GitHub shows a "Cite this repository" button from `CITATION.cff`. BibTeX:
 
 <details>
 <summary>BibTeX</summary>
@@ -77,6 +77,7 @@ GitHub shows a "Cite this repository" button from `CITATION.cff`. BibTeX:
   author = {Khosravipour, Nik},
   title  = {Treasury buyback: frozen descriptive calculations},
   year   = {2026},
+  doi    = {10.5281/zenodo.23404678},
   url    = {https://github.com/nik110403/treasury-buyback-note}
 }
 ```

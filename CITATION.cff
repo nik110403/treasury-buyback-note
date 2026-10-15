@@ -6,6 +6,8 @@ abstract: "Offline replay of the descriptive calculations in the market note Tre
 authors:
   - family-names: Khosravipour
     given-names: Nik
+    orcid: "https://orcid.org/0009-0007-4464-5002"
 repository-code: "https://github.com/nik110403/treasury-buyback-note"
 url: "https://nikkhosravipour.com/post/treasury-buyback"
 license: MIT
+doi: "10.5281/zenodo.23404678"
