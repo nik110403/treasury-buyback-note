@@ -1,0 +1,12 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The text in this repository (README.md and docs/) is licensed under CC BY 4.0. Code is licensed
+separately under MIT (see LICENSE). This release contains no charts.
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Copyright (c) 2026 Nik Khosravipour
+
+Third-party data is not under the MIT licence for the code or under CC BY 4.0. The files in inputs/
+come from the U.S. Treasury Fiscal Data, FRED (Board of Governors H.15), the Japan Ministry of Finance
+and the Federal Reserve Board. Each keeps its provider's terms; docs/PROVENANCE.md quotes those terms
+and lists the required attributions.
